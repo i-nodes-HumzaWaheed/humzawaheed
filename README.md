@@ -1,4 +1,4 @@
-![logo](https://github.com/i-nodes-HumzaWaheed/humzawaheed/blob/main/Black%20Modern%20Digital%20Marketing%20Banner%20.png)
+![logo](https://github.com/i-nodes-HumzaWaheed/i-nodes-HumzaWaheed/blob/main/Black%20Modern%20Digital%20Marketing%20Banner%20.png)
 <h1 align="center">Hi 👋, I'm Humza Waheed</h1>
 <h3 align="center">A passionate software developer from Pakistan</h3>
 
