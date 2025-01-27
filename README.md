@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-nodes-HumzaWaheed&show_icons=true&locale=en" alt="humzawaheed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-nodes-HumzaWaheed&" alt="humzawaheed" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=i-nodes-HumzaWaheed" alt="humzawaheed" /></a>
